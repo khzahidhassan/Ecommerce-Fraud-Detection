@@ -37,6 +37,7 @@ it found 1 user in the sample:
 
 ```
 Fraud alerts:
+Batch: 0
 +---------+-------------------+----------+--------------+------+
 |user_id  |session_start      |cart_count|purchase_count|status|
 +---------+-------------------+----------+--------------+------+
